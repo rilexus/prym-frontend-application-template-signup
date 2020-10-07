@@ -2,6 +2,7 @@
 
 ##Sign Up Page
 The following requirements MUST be implemented with React.
+The following requirements SHOULD be implemented with functional components.
 
 ###It MUST contain:
 * "Last name" input of type text
@@ -14,7 +15,7 @@ The following requirements MUST be implemented with React.
 * "Street" input of type text
 * "House/Apartment" input of type text
 * "ZIP" input of type number
-* "City" input of type number
+* "City" input of type string
 * All address related fields MUST only be visible if the "Show Address" checkbox is checked.
 * "Additional information" textarea field for additional information.
 * The Redux store
@@ -35,7 +36,7 @@ The following requirements MUST be implemented with React.
 * "City" input field MUST be at least 4 characters long.
 * "Additional information" area MAY be empty.
 * "Email" input field MUST be a valid email.
-* "ZIP" input field MUST be 5 characters long and all characters MUST be decimal numbers.
+* "ZIP" input field MUST be 5 characters long.
 * Submit button SHOULD be disabled when all the input requirements are not met.
 * Your implementation SHOULD contain test with a framework of your choice.
 
