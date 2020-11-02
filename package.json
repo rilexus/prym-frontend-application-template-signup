@@ -4,11 +4,13 @@
   "author": "Stanislav Panchenko <stanislav.panchenko@prym.de>",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.1",
     "redux": "^4.0.5",
-    "reselect": "^4.0.0"
+    "reselect": "^4.0.0",
+    "styled-components": "^5.2.1"
   },
   "devDependencies": {
     "react-scripts": "3.4.1",
