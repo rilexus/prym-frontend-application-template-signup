@@ -1,8 +1,9 @@
 #Prym Frontend Application Template
 
-##Sign Up Page
-The following requirements MUST be implemented with React.
-The following requirements SHOULD be implemented with functional components.
+##Requirements
+* The following requirements MUST be implemented with React.
+* The following requirements SHOULD be implemented with functional components.
+* You SHALL NOT install any packages.
 
 ###It MUST contain:
 * "Last name" input of type text
