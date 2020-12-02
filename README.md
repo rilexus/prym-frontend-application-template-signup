@@ -1,11 +1,11 @@
-#Prym Frontend Application Template
+# Prym Frontend Application Template
 
-##Requirements
+## Requirements
 * The following requirements MUST be implemented with React.
 * The following requirements SHOULD be implemented with functional components.
 * You SHALL NOT install any packages.
 
-###It MUST contain:
+### It MUST contain:
 * "Last name" input of type text
 * "First name" input of type text
 * "Nick name" input of type text
@@ -27,7 +27,7 @@
 * You SHOULD NOT use any external packages except testing related.
 * The application SHOULD be extendable.
 
-###The form MUST submit the information only when the following requirements are met:
+### The form MUST submit the information only when the following requirements are met:
 * "Last name" input field MUST be at least 2 characters long.
 * "First name" input field MUST be at least 2 characters long.
 * "Password" MUST be at least 6 characters long and contain at least 2 numbers.
